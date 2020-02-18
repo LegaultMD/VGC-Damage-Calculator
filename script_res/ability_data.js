@@ -134,6 +134,7 @@ var ABILITIES_SS = ABILITIES_SM.concat([
     'Power Spot',
     'Intrepid Sword',
     "Gorilla Tactics",
+    'Own Tempo',
     "Punk Rock"
 ]);
 
